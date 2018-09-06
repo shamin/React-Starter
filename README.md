@@ -2,7 +2,7 @@
 React boilerplate with webpack, eslint and sass
 
 ## Features
-* Webpack
+* Webpack 4
 * Eslint
 * Sass
 
