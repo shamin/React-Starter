@@ -1,5 +1,5 @@
 # React Boilerplate
-React boilerplate with webpack, eslint and sass
+React boilerplate with webpack, typescript, eslint, jest, react-testing-library
 
 ## Features
 * Webpack 4
