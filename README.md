@@ -2,9 +2,12 @@
 React boilerplate with webpack, typescript, eslint, jest, react-testing-library
 
 ## Features
-* Webpack 4
+* Webpack 5
 * Eslint
-* Sass
+* Jest
+* Prettier
+* react-testing-library
+* Typescript
 
 ## Quick start
 Clone the repo
